@@ -1,4 +1,4 @@
-package com.zdj.rpc_demo;
+package com.zdj.rpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
